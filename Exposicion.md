@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/JesusEstrad4/Sistemas-programables/main/ANALIZADOR.png))
+![alt text](https://raw.githubusercontent.com/JesusEstrad4/Sistemas-programables/main/ANALIZADOR.png)
 
 
 LOGYIC ANALYZER (8 CHANELS)
