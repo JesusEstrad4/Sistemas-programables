@@ -2,3 +2,7 @@
 
 
 LOGYIC ANALYZER (8 CHANELS)
+
+
+Un analizador lógico es uninstrumento utilizado para medir señales electronicas. El analizador lógico se usa para medir señales digitales.
+
