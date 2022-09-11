@@ -9,7 +9,7 @@
 
 :point_right:Además, un analizador logico tiene más canales de medicion que un osciloscopio (generalmente mas de 8). Además, un analizador lógico tiene mas memoria que un osciloscopio.
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/JesusEstrad4/Sistemas-programables/main/General/Anlizador%20logico.png)
 
 
 :computer:Los analizadores lógicos son necesarios para el desarrollo de circuitos electronicos. Los analizadores lógicos captan los niveles adyacentes de microchips individuales y los muestra en la computadora. Los analizadores lógicos estan conectados a los pines individuales de las puertas lógicas y son de gran ayuda en la deteccion de errores en el diseño de circuitos. La funcion principal de los analizadores lógicos es la captacion de niveles altos y bajos. Asi, en la pantalla se visualiza cada nivel en el tiempo.
