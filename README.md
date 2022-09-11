@@ -1,5 +1,8 @@
 
-![alt text](https://raw.githubusercontent.com/JesusEstrad4/Sistemas-programables/main/sistemas.png)
+![alt text](https://raw.githubusercontent.com/JesusEstrad4/Sistemas-programables/main/General/sistemas.png) 
 
-Aqui se guardaran las actividades de la materia de SISTEMAS ROGRAMABLES 
+Docente: René Solís Reyes  
+Materia: Sistemas programables  
+Hora: 17:00-18:00
 
+Aqui se guardaran las actividades de la materia de SISTEMAS ROGRAMABLES
